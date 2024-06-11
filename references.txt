@@ -1,0 +1,17 @@
+1.
+https://stackoverflow.com/questions/24906126/how-to-unpack-pkl-file
+
+2. 
+https://stackoverflow.com/questions/28175755/reading-integers-from-a-file-in-python
+
+3.
+https://stackoverflow.com/questions/21744804/how-to-read-comma-separated-values-from-a-text-file-then-output-result-to-a-tex
+
+4.
+https://www.geeksforgeeks.org/print-the-content-of-a-txt-file-in-python/
+
+5.
+https://www.w3schools.com/python/python_file_open.asp
+
+6.
+https://chatgpt.com/share/c9fc2bc0-d749-4c0f-9cb9-403d2b6960b8
